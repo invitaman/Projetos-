@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+
+@keyframes slidein {
+  from {
+
+    margin: 75px 50px 20px 750px;
+
+  
+
+    
+  }
+
+  to {
+  
+    margin: 75px 50px 20px 50px;
+
+
+    
+  }
+
+
+  
+}
+
+
+body {
+
+  background-image: url("e000bf3c9e35862c60c70c4db967b9b7.gif");
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  image-resolution: 100%;
+  background-size: 100%;
+  font-family: 'Sigmar', cursive;
+
+}
+
+.bagulhobranco {
+  background-color: rgb(0, 0, 0);
+  background-size: 50%;
+  margin: 20px 450px 50px 450px;
+  align-items: center;
+  text-align: center;
+  color: aliceblue;
+  border-radius: 50px;
+  padding: 4px;
+  border: solid 1px rgb(255, 255, 255)
+}
+
+h1 {
+  background-color: rgb(255, 255, 255);
+  color: rgb(7, 7, 7);
+  font-family: 'Sigmar';
+  align-items: center;
+  text-align: center;
+  margin: 75px 50px 10px 50px;
+  font-size: 50px;
+  border-radius: 20px;
+  border: solid 3px rgb(0, 0, 0);
+    animation-duration: 5.3s;
+    animation-name: slidein;
+  
+}
+
+.lindo {
+
+  text-decoration: none;
+  font-family: 'Sigmar';
+  align-items: center;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  list-style: none;
+
+}
+
+.hh {
+  text-decoration: none;
+  font-family: 'Sigmar';
+  align-items: center;
+  text-align: center;
+  font-size: 15px;
+  color: rgb(7, 183, 196);
+  list-style: none;
+
+  
+
+}
+
+.diferente {
+
+  text-decoration: none;
+  font-family: 'Sigmar';
+  align-items: center;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(2, 2, 2);
+  list-style: none;
+  background-color: rgb(255, 255, 255);
+  margin: 0px 65px 0px 65px;
+  border-radius: 20px;
+  padding: 0px 10px 0px 10px;
+}
